@@ -39,4 +39,8 @@ This is a simple React application that provides user account functionality incl
 
 ```bash
 git clone https://github.com/BhanuPratapSingh3010/Educase-Assignment.git
-cd 
+
+npm install 
+
+npm run dev
+

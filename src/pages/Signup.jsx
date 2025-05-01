@@ -29,7 +29,7 @@ const Signup = () => {
     e.preventDefault();
     
     localStorage.setItem('userData', JSON.stringify(formData)); // Save User data to localStorage
-    alert('Account created and data saved to localStorage!');
+    alert('Account created successfully!');
     navigate('/signin');
   };
 
